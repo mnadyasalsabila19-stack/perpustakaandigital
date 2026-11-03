@@ -7,4 +7,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Perpustakaan dan Ilmu Informasi: Sebuah pengantar](ebook/Rahmat Iswanto - Pengantar ilmu Perpustakaan dan Informasi.pdf) - Iswanto, R., dkk. (2019)
 4. [Dasar-Dasar Pengantar Teknologi Informasi](ebook/Bayu Riyanto - Dasar Dasar PTI buku.pdf) - Riyanto, B. & Dozan, W. (2020)
 5. [Strategi peningkatan kompetensi dan profesi pustakawan pada era digital dalam tatakelola perpustakaan di Provinsi Papua](ebook/Tuwaji - Strategi peningkatan kompetensi dan profesi pustakawan) Tuwaji (2025)
+6. [Pemanfaatan Media Sosial Sebagai Media Informasi dan Publikasi(Studi Deskriptif Kualitatif pada Akun Instagram @rumahkimkotatangerang](ebook/Damayanti - Pemanfaatan Media Sosial) Damayanti A., dkk (2023)
 Powered by GitHub Pages
