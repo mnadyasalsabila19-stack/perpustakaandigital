@@ -6,5 +6,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 Hoaks dan Disinformasi: Sosialisasi Literasi 
 Media Digital di Kalangan Remaja](ebook/Sanggarwati - Membangun Kesadaran Masyarakat.pdf) – Sanggarwati, D. A., dkk. (2025) 
 2. [Metode Penelitian Kualitatif](ebook/buku metode penelitian kualitatif.Abdul Fattah (1).pdf) - Nasution, A.F. (2023)
-3. [Perpustakaan dan Ilmu Informasi: Sebuah pengantar](ebook/Rahmat Iswanto - Pengantar ilmu Perpustakaan dan Informasi.pdf) - Iswanto, R., dkk. (2019) 
+3. [Perpustakaan dan Ilmu Informasi: Sebuah pengantar](ebook/Rahmat Iswanto - Pengantar ilmu Perpustakaan dan Informasi.pdf) - Iswanto, R., dkk. (2019)
+4. [Dasar-Dasar Pengantar Teknologi Informasi](ebook/Bayu Riyanto - Dasar Dasar PTI buku.pdf) - Riyanto, B. & Dozan, W. (2020)
 Powered by GitHub Pages
