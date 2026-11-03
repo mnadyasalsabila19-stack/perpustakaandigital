@@ -5,6 +5,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 1. [Membangun Kesadaran Masyarakat Terhadap 
 Hoaks dan Disinformasi: Sosialisasi Literasi 
 Media Digital di Kalangan Remaja](ebook/Sanggarwati - Membangun Kesadaran Masyarakat.pdf) – Sanggarwati D. A., dkk (2025) 
-2. Contoh buku lain
----
+2. [Metode Penelitian Kualitatif](ebook/buku metode penelitian kualitatif.Abdul Fattah (1).pdf) - Nasution, A.F. (2023)
 Powered by GitHub Pages
