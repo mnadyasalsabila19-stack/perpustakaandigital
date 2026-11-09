@@ -10,4 +10,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Pemanfaatan Media Sosial Sebagai Media Informasi dan Publikasi: Studi Deskriptif Kualitatif pada Akun Instagram @rumahkimkotatangerang](ebook/Damayanti - Pemanfaatan Media Sosial.pdf) - Damayanti A., dkk (2023)
 7. [Manajemen Perpustakaan (Perpustakaan Konvensional Dan Digital)](ebook/Syafri Fadillah - Buku Manajemen Perpustakaan.pdf) - MARPAUNG (2025)
 8. [KOMUNIKASI INFORMASI: DASAR-DASAR UNTUK MENAVIGASI ERA INFORMASI BERLEBIH](ebook/Hazan - KOMUNIKASI INFORMASI.pdf) - Harzan, dkk. (2025)
+9. [
 Powered by GitHub Pages
