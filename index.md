@@ -8,4 +8,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 4. [Dasar-Dasar Pengantar Teknologi Informasi](ebook/Bayu Riyanto - Dasar Dasar PTI buku.pdf) - Riyanto, B. & Dozan, W. (2020)
 5. [Strategi peningkatan kompetensi dan profesi pustakawan pada era digital dalam tatakelola perpustakaan di Provinsi Papua](ebook/Tuwaji - Strategi peningkatan kompetensi dan profesi pustakawan.pdf) - Tuwaji (2025)
 6. [Pemanfaatan Media Sosial Sebagai Media Informasi dan Publikasi: Studi Deskriptif Kualitatif pada Akun Instagram @rumahkimkotatangerang](ebook/Damayanti - Pemanfaatan Media Sosial.pdf) - Damayanti A., dkk (2023)
+7. [Manajemen Perpustakaan (Perpustakaan Konvensional Dan Digital)](ebook/Syafri Fadillah - Buku Manajemen Perpustakaan.pdf) - MARPAUNG (2025)
+8. [KOMUNIKASI INFORMASI: DASAR-DASAR UNTUK MENAVIGASI ERA INFORMASI BERLEBIH](ebook/Hazan - KOMUNIKASI INFORMASI.pdf) - Harzan, dkk. (2025)
 Powered by GitHub Pages
